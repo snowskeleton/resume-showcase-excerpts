@@ -1,5 +1,5 @@
 # Portfolio
-Welcome to my portfolio. As you may expect with a portfolio, this is a collection of my more well-rounded projects, with short exerpts explaining a bit about each one. So,without further adieu....
+Welcome to my portfolio. As you may expect with a portfolio, this is a collection of my more well-rounded projects, with short exerpts explaining a bit about each one. So, without further adieu....
 
 # I Got Gas
 https://github.com/snowskeleton/I-Got-Gas
